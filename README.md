@@ -1,3 +1,13 @@
+
+
+<!-- BANNER DE PRESENTACIÓN -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Sandro+Iker+Fernandez+Lima;Estudiante+de+Ingenier%C3%ADa+en+Software;Bases+de+datos+%7C+Java+%7C+SQL+%7C+PHP" alt="Typing banner" />
+</p>
+
+<p align="center">
+  🚀 • 4to semestre • Universidad Técnica de Ambato • 🗄️
+</p>
 # 👋 ¡Hola! Soy Sandro Iker Fernandez Lima
 
 ## Sobre mí
