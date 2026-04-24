@@ -1,43 +1,89 @@
-
-
-<!-- BANNER DE PRESENTACIÓN -->
+<!-- ████████ BANNER CON NOMBRE COMPLETO (ASCII ART) ████████ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Sandro+Iker+Fernandez+Lima;Estudiante+de+Ingenier%C3%ADa+en+Software;Bases+de+datos+%7C+Java+%7C+SQL+%7C+PHP" alt="Typing banner" />
+  <samp>
+    <pre>
+███████╗ █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗     ██╗██╗  ██╗███████╗██████╗     ███████╗███████╗██████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗ ███████╗███████╗
+██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗    ██║██║ ██╔╝██╔════╝██╔══██╗    ██╔════╝██╔════╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝
+███████╗███████║██╔██╗ ██║██████╔╝██████╔╝██║   ██║    ██║██║██╔╝ █████╗  ██████╔╝    █████╗  ███████╗██████╔╝██╔██╗ ██║███████║██╔██╗ ██║██║  ██║█████╗  ███████╗
+╚════██║██╔══██║██║╚██╗██║██╔══██╗██╔══██╗██║   ██║    ██║████╔╝  ██╔══╝  ██╔══██╗    ██╔══╝  ╚════██║██╔══██╗██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║██╔══╝  ╚════██║
+███████║██║  ██║██║ ╚████║██║  ██║██║  ██║╚██████╔╝    ██║██║   ███████╗██║  ██║    ██║     ███████║██████╔╝██║ ╚████║██║  ██║██║ ╚████║██████╔╝███████╗███████║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚═╝╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝
+    </pre>
+  </samp>
 </p>
 
+<!-- TYPING ANIMATION (BRIGHT WHITE) -->
 <p align="center">
-  🚀 • 4to semestre • Universidad Técnica de Ambato • 🗄️
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Sandro+Iker+Fernandez+Lima;⚡+Software+Engineering+Student;🗄️+Database+%7C+Java+%7C+SQL+%7C+PHP;🚀+4th+Semester+%7C+Technical+University+of+Ambato" alt="Typing SVG" />
 </p>
-# 👋 ¡Hola! Soy Sandro Iker Fernandez Lima
 
-## Sobre mí
+<!-- GITHUB CAT (YOU LOVED IT) -->
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="120">
+</p>
 
-Soy estudiante de **cuarto semestre de Ingeniería en Software** en la **Universidad Técnica de Ambato**.  
-Me apasiona el mundo de las bases de datos y el desarrollo backend. Disfruto construir estructuras de datos eficientes y escribir consultas SQL que resuelvan problemas reales.
-
-Soy una persona curiosa, con buena actitud para el trabajo en equipo y siempre buscando aprender algo nuevo. Me gusta compartir lo que sé y ayudar a quienes recién empiezan en el mundo de la programación.
-
-## 🛠️ Tecnologías que manejo
-
-- **Lenguajes:** Java, PHP  
-- **Bases de datos:** SQL, MySQL (diseño y optimización de relaciones)  
-- **Otros:** Git, HTML, CSS (básico)
-
-## 📚 Proyectos académicos destacados
-
-Por ahora, mis proyectos han sido principalmente académicos. Algunos ejemplos:
-
-- Sistema de gestión para una pequeña tienda (Java + MySQL)  
-- Base de datos para una biblioteca escolar (modelado relacional, consultas avanzadas)  
-- Pequeñas aplicaciones web con PHP y MySQL (CRUD completo)
-
-> ⚡ Próximamente subiré estos proyectos a mi repositorio.
-
-## 🎯 Lo que busco
-
-Aplicar y fortalecer mis conocimientos en **desarrollo backend** y **administración de bases de datos**, colaborar en proyectos open source y seguir formándome como ingeniero.
-tuyo)
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SandroIkerFL&label=👀+PROFILE+VIEWS&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
-✨ *"La simplicidad es la máxima sofisticación"* – y también la base de una buena base de datos. 😄
+## 👨‍💻 About Me
+
+<details open>
+<summary><b>📖 Click to expand</b></summary>
+<br>
+
+I'm **Sandro Iker Fernandez Lima**, a 4th-semester **Software Engineering** student at the **Technical University of Ambato** 🇪🇨  
+
+💡 I'm passionate about **databases** and **backend development**. I enjoy writing efficient SQL queries and building solid data structures that solve real problems.  
+
+🤝 Team player, curious, and always eager to learn new things.
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+## 📚 Academic Projects (highlights)
+
+- 🏪 **Store Management System** – Java + MySQL  
+- 📖 **School Library Database** – Advanced SQL (relational modeling, complex queries)  
+- 🌐 **CRUD Web Application** – PHP + MySQL  
+
+> ⚡ I'll be uploading these projects to my repositories soon.
+
+---
+
+## 🎯 What I'm looking for
+
+Apply and strengthen my skills in **backend development** and **database administration**, collaborate on open‑source projects, and keep growing as an engineer.
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://github.com/SandroIkerFL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="mailto:sandro.fernandez@uta.edu.ec"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ "Simplicity is the ultimate sophistication" – and the soul of a good database. ✨</i>
+</p>
