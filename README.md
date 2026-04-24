@@ -22,6 +22,15 @@
   <img src="https://komarev.com/ghpvc/?username=SandroIkerFL&label=👀+PROFILE+VIEWS&color=00c9a7&style=flat-square" />
 </p>
 
+<!-- GIFS DE PROGRAMACION -->
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="100" title="Mona the cat"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" title="Coding"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ZVik7pIojeAiqxqZan/giphy.gif" width="100" title="Working hard"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -49,6 +58,15 @@ I'm passionate about **databases** and **backend development**. I enjoy writing 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<!-- GIF SNAKE / CONTRIBUCIONES -->
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" title="GitHub"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" title="Coder cat"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" title="GitHub"/>
+</p>
+
 ---
 
 ## 📚 Academic Projects
@@ -58,6 +76,15 @@ I'm passionate about **databases** and **backend development**. I enjoy writing 
 - 🌐 **Web CRUD App** — PHP + MySQL
 
 > 🚀 Code will be uploaded to my repositories soon.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SandroIkerFL&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroIkerFL&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
 
 ---
 
@@ -75,5 +102,7 @@ I'm passionate about **databases** and **backend development**. I enjoy writing 
 ---
 
 <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
   <i>✨ "Clean code is not the one that works — it's the one that's understood." ✨</i>
 </p>
